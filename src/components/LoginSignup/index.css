@@ -1,0 +1,36 @@
+.upper-bar {
+  height: 10vh;
+  background-color: blue;
+  min-width: 100vw;
+}
+
+.page-form {
+  margin-top: 25px;
+  margin-left: auto;
+  max-width: 50%;
+}
+
+.btn-container {
+  background-color: white;
+  margin-top: 25px;
+  margin-left: auto;
+  max-width: 50%;
+  display: flex;
+  border-radius: 7px;
+  border: 1px solid darkslategrey;
+}
+
+.normal-btn {
+  color: black;
+  width: 50%;
+  background-color: transparent;
+  border: 0px;
+  border-radius: 0px;
+}
+
+.active-btn {
+  width: 50%;
+  background-color: blue;
+  border-radius: 7px;
+  border: 0px;
+}
